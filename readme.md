@@ -1,5 +1,5 @@
-# Appsisvistorias
-> Aplicativo destinado a vistorias de veiculos que necessitam emitir laudos de veiculos!
+# React native photo editor
+> Aplicativo destinado a mostrar como funciona esse pluggin de imagens para o react-native
 
 Para rodar a aplicação, sera necessario o android studio ou seu proprio celular fisico. Já que estamos usando React Native CLI.
 
